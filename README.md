@@ -4,5 +4,5 @@ that the data set is having, before creating a model or predicting something thr
 
 Analyzing a dataset is a hectic task and takes a lot of time, according to a study EDA takes around 30% effort of the project but it cannot be eliminated. Python provides certain open-source modules that can automate the whole process of EDA and save a lot of time. Some of these popular modules that we are going to explore here.
 
-[colab link](https://colab.research.google.com/drive/1mR859DZoG0ChDwmIaErKJMkRCID8sWD4?usp=sharing)
+[PDEDA](https://pypi.org/project/PDEDA/)
 
